@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  qiankaobei002.cpp
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(33): error C2440: “=”: 无法从“int”转换为“int *”
+  c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(33): note: 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(41): error C2001: 常量中有换行符
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(42): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(44): error C2039: “setX”: 不是“CTestCopy”的成员
+  c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(9): note: 参见“CTestCopy”的声明
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(46): error C2065: “x”: 未声明的标识符
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(47): error C2065: “y”: 未声明的标识符
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(47): error C2065: “b”: 未声明的标识符
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(55): error C2664: “CTestCopy::CTestCopy(CTestCopy &)”: 无法将参数 1 从“int”转换为“CTestCopy &”
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(67): error C2679: 二进制“=”: 没有找到接受“overloaded-function”类型的右操作数的运算符(或没有可接受的转换)
+  c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(19): note: 可能是“CTestCopy &CTestCopy::operator =(const CTestCopy &)”
+  c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(67): note: 尝试匹配参数列表“(CTestCopy, overloaded-function)”时
+c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(68): error C2039: “display”: 不是“CTestCopy”的成员
+  c:\users\hp301\documents\visual studio 2015\projects\qiankaobei002\qiankaobei002\qiankaobei002.cpp(9): note: 参见“CTestCopy”的声明
